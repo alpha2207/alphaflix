@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/alphaflix/static/css/main.6cdfcd31.css",
-    "main.js": "/alphaflix/static/js/main.6c4ddc11.js",
-    "index.html": "/alphaflix/index.html",
-    "main.6cdfcd31.css.map": "/alphaflix/static/css/main.6cdfcd31.css.map",
-    "main.6c4ddc11.js.map": "/alphaflix/static/js/main.6c4ddc11.js.map"
+    "main.css": "/static/css/main.a97dbfcd.css",
+    "main.js": "/static/js/main.c251a043.js",
+    "index.html": "/index.html",
+    "main.a97dbfcd.css.map": "/static/css/main.a97dbfcd.css.map",
+    "main.c251a043.js.map": "/static/js/main.c251a043.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cdfcd31.css",
-    "static/js/main.6c4ddc11.js"
+    "static/css/main.a97dbfcd.css",
+    "static/js/main.c251a043.js"
   ]
 }
