@@ -1,9 +1,7 @@
-# AlphaTv
-
-
+# AlphaFlix
 
 ## Description
-### AlphaTv is A React Based Web Application To Search Your Favorite Movies Online.
+### AlphaTv is A React Based Web Application To Search Your Favorite Movies and TV Shows.
 
 ### It is Powered By TMDB Api & Its Frontend Uses Technologies Like React and BootStrap. 
 
@@ -17,4 +15,4 @@
 
 ## Contributions
 
-This Project Is Currently Open To contributions.
+This Project Is Currently Open To contributions. Contribution toward this repository will also count towards the hactoberfest.
